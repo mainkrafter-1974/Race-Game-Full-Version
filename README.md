@@ -235,3 +235,6 @@ This repository serves as the official landing page for Race. The software is di
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Race today!**
+
+---
+**Last updated:** 2026-09-11 00:53:31 UTC
