@@ -237,4 +237,4 @@ This repository serves as the official landing page for Race. The software is di
 **Get the most recent version of Race today!**
 
 ---
-**Last updated:** 2026-09-24 22:12:39 UTC
+**Last updated:** 2026-09-25 01:19:26 UTC
